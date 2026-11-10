@@ -1,14 +1,18 @@
 {
-  "build" : "2",
+  "build" : "3",
   "minimumSystem" : "14.0",
   "notes" : [
-    "A versão do app aparece na barra lateral e em Ajustes → Sobre.",
-    "Tela de novidades: depois de cada atualização, o Stackd mostra o que mudou.",
-    "Atualização automática: uma vez por dia o Stackd procura uma versão nova, confere a assinatura do arquivo e instala com um clique."
+    "Visual novo em vidro: fundo aurora, cartões, campos e janelas translúcidos.",
+    "IA desativada por padrão. Você liga em Ajustes → IA, e a nuvem só funciona com seu consentimento.",
+    "Apresentação refeita, com explicação completa (incluindo a IA e a privacidade). Ela aparece de novo a cada versão nova e pode ser revista em Ajustes → Sobre.",
+    "Importar o PDF de uma fatura já cadastrada atualiza a fatura e mantém pessoas, anotações e pagamentos.",
+    "Dividir uma compra agora aceita valores manuais em reais.",
+    "Fatura do C6 lida corretamente, inclusive com a coluna de valores separada.",
+    "Botão de excluir direto no cartão."
   ],
-  "sha256" : "b1c1f570c0f184e9ed56bee450c00a9f81d94f2ed1ea3772f5ca93c754ad1bdb",
-  "signature" : "eognnWkLWXDBrtzTyjO0/y39gpeDBrcQq2plN9Kp5DHQDbgnBGMcLjfYXuVySK8u97pA2Pk0nm3lR9i1SYRWCA==",
-  "size" : 2898904,
-  "url" : "https://github.com/dlec-labs/stackd-releases/releases/download/v1.1.0/Stackd-1.1.0.zip",
-  "version" : "1.1.0"
+  "sha256" : "d49e3273727146d566f18db483a977993e76623bbd9f7554e936d8414d26ca11",
+  "signature" : "eSBTvP9AXYR/5D5vWoPQzZORtOysQlBxlLI2UhbeXbwRxJHvR1TEThLB3LY/K+Pau1BAHhWtGKOD33O/JBmgCg==",
+  "size" : 2899254,
+  "url" : "https://github.com/dlec-labs/stackd-releases/releases/download/v1.1.1/Stackd-1.1.1.zip",
+  "version" : "1.1.1"
 }
