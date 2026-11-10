@@ -1,18 +1,12 @@
 {
-  "build" : "3",
+  "build" : "4",
   "minimumSystem" : "14.0",
   "notes" : [
-    "Visual novo em vidro: fundo aurora, cartões, campos e janelas translúcidos.",
-    "IA desativada por padrão. Você liga em Ajustes → IA, e a nuvem só funciona com seu consentimento.",
-    "Apresentação refeita, com explicação completa (incluindo a IA e a privacidade). Ela aparece de novo a cada versão nova e pode ser revista em Ajustes → Sobre.",
-    "Importar o PDF de uma fatura já cadastrada atualiza a fatura e mantém pessoas, anotações e pagamentos.",
-    "Dividir uma compra agora aceita valores manuais em reais.",
-    "Fatura do C6 lida corretamente, inclusive com a coluna de valores separada.",
-    "Botão de excluir direto no cartão."
+    "Ao importar de novo o PDF de uma fatura, um gasto que você já tinha registrado à mão e que o PDF traz deixa de aparecer duplicado: as pessoas e a observação passam para o lançamento do PDF."
   ],
-  "sha256" : "d49e3273727146d566f18db483a977993e76623bbd9f7554e936d8414d26ca11",
-  "signature" : "eSBTvP9AXYR/5D5vWoPQzZORtOysQlBxlLI2UhbeXbwRxJHvR1TEThLB3LY/K+Pau1BAHhWtGKOD33O/JBmgCg==",
-  "size" : 2899254,
-  "url" : "https://github.com/dlec-labs/stackd-releases/releases/download/v1.1.1/Stackd-1.1.1.zip",
-  "version" : "1.1.1"
+  "sha256" : "66daa52a588ff9dd5a7b342ee8d62d3e5bc74613b5131251701a276733a12951",
+  "signature" : "s+0qA6i98WjyPTN4Ue/PyC3KwcYnRmOZ7MLnWsZTMQm9wjhyczuEGVKFYJKqM0BOljZ0koalHuUDSLrmRTnyBw==",
+  "size" : 2902433,
+  "url" : "https://github.com/dlec-labs/stackd-releases/releases/download/v1.1.2/Stackd-1.1.2.zip",
+  "version" : "1.1.2"
 }
