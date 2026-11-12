@@ -1,12 +1,18 @@
 {
-  "build" : "4",
+  "build" : "5",
   "minimumSystem" : "14.0",
   "notes" : [
-    "Ao importar de novo o PDF de uma fatura, um gasto que você já tinha registrado à mão e que o PDF traz deixa de aparecer duplicado: as pessoas e a observação passam para o lançamento do PDF."
+    "Instalador .dmg assinado e notarizado pela Apple: abre sem o aviso de segurança do macOS.",
+    "Ao importar de novo uma fatura, o Stackd avisa quando lançamentos com pessoas ou observação não vieram no PDF novo e saíram da fatura (há backup).",
+    "Reimportar mantém as pessoas já atribuídas mesmo quando o PDF novo chega sem elas.",
+    "A correção de colunas separadas passou a valer só para faturas do C6; outros bancos não são afetados.",
+    "A apresentação só é marcada como vista quando você chega ao fim dela.",
+    "Divisão por valor reabre em reais quando os percentuais não são inteiros.",
+    "Quem já usava IA com um provedor da nuvem continua com ela ligada após a atualização."
   ],
-  "sha256" : "66daa52a588ff9dd5a7b342ee8d62d3e5bc74613b5131251701a276733a12951",
-  "signature" : "s+0qA6i98WjyPTN4Ue/PyC3KwcYnRmOZ7MLnWsZTMQm9wjhyczuEGVKFYJKqM0BOljZ0koalHuUDSLrmRTnyBw==",
-  "size" : 2902433,
-  "url" : "https://github.com/dlec-labs/stackd-releases/releases/download/v1.1.2/Stackd-1.1.2.zip",
-  "version" : "1.1.2"
+  "sha256" : "538b6b448c1da6b4d35a2c5c12660175364b19460cae130ba56ffefc537880d7",
+  "signature" : "zlPNY3X9SCuligVYlYMiguYv99IRBI7aPU4h4X+/h68/TU+UHVaW5OETV20OulYom917SyKH+gaMe5eC9WZ3Cw==",
+  "size" : 2919488,
+  "url" : "https://github.com/dlec-labs/stackd-releases/releases/download/v1.1.3/Stackd-1.1.3.zip",
+  "version" : "1.1.3"
 }
