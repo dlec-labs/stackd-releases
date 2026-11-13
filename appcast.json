@@ -1,12 +1,13 @@
 {
-  "build" : "7",
+  "build" : "8",
   "minimumSystem" : "14.0",
   "notes" : [
-    "Ajustes internos na atualização automática."
+    "Com \"Atualizar automaticamente\" ligado (Ajustes › Sobre), o Stackd instala a versão nova ao abrir e reabre sozinho.",
+    "Com a opção desligada, ao abrir ele avisa que há atualização e você escolhe quando instalar."
   ],
-  "sha256" : "07109e682e7a167b3a620bbc8004dbc785e3ee72456949c6f6088ef76df0241b",
-  "signature" : "D7w917J3yszGSKg3u7yohKX+X4lJTknLfhpWpf4ke3ULrbGAdEswhekVwTnAxfVyW73rmCJ1rYacaeHbQZQQDw==",
-  "size" : 2920024,
-  "url" : "https://github.com/dlec-labs/stackd-releases/releases/download/v1.1.5/Stackd-1.1.5.zip",
-  "version" : "1.1.5"
+  "sha256" : "ca9560cbe71c443cc447970c5dec61f3abf35b573554514723741796b408665b",
+  "signature" : "Lvo8rIg0qmLVKMfiyU4aUCz5bDmuaQw0JyzcfDo4AQccJWXLL21yaFA0joKgmXaC6nuDZU3sM9Js82/SJXfTBA==",
+  "size" : 2929571,
+  "url" : "https://github.com/dlec-labs/stackd-releases/releases/download/v1.1.6/Stackd-1.1.6.zip",
+  "version" : "1.1.6"
 }
