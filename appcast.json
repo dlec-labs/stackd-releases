@@ -1,18 +1,13 @@
 {
-  "build" : "5",
+  "build" : "6",
   "minimumSystem" : "14.0",
   "notes" : [
-    "Instalador .dmg assinado e notarizado pela Apple: abre sem o aviso de segurança do macOS.",
-    "Ao importar de novo uma fatura, o Stackd avisa quando lançamentos com pessoas ou observação não vieram no PDF novo e saíram da fatura (há backup).",
-    "Reimportar mantém as pessoas já atribuídas mesmo quando o PDF novo chega sem elas.",
-    "A correção de colunas separadas passou a valer só para faturas do C6; outros bancos não são afetados.",
-    "A apresentação só é marcada como vista quando você chega ao fim dela.",
-    "Divisão por valor reabre em reais quando os percentuais não são inteiros.",
-    "Quem já usava IA com um provedor da nuvem continua com ela ligada após a atualização."
+    "Instalador .dmg com visual novo: é só arrastar o Stackd para Aplicativos.",
+    "Estatísticas anônimas de uso passaram para o novo servidor."
   ],
-  "sha256" : "538b6b448c1da6b4d35a2c5c12660175364b19460cae130ba56ffefc537880d7",
-  "signature" : "zlPNY3X9SCuligVYlYMiguYv99IRBI7aPU4h4X+/h68/TU+UHVaW5OETV20OulYom917SyKH+gaMe5eC9WZ3Cw==",
-  "size" : 2919488,
-  "url" : "https://github.com/dlec-labs/stackd-releases/releases/download/v1.1.3/Stackd-1.1.3.zip",
-  "version" : "1.1.3"
+  "sha256" : "bf9ff603c0e77fb650170e8a12c7d5a2caf8eece98fe971b3540ebe7a435741e",
+  "signature" : "SqCqu3GPu0Okg+BHant3tD7ll8TMmTN/ox+3jxKM4EZHvdvvWOQuyEVl1zCf868rjkeQ3/zhtknKufomrufkCQ==",
+  "size" : 2920029,
+  "url" : "https://github.com/dlec-labs/stackd-releases/releases/download/v1.1.4/Stackd-1.1.4.zip",
+  "version" : "1.1.4"
 }
